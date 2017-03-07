@@ -1,0 +1,7 @@
+*.exe
+*.c~
+*.cpp~
+*.obj
+*.pdb
+*.ilk
+.vs/
